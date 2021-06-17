@@ -1,0 +1,14 @@
+use: 0
+
+	 *** Parameter configuration values ***
+
+	match:    1
+	mismatch: -2
+	g:        -1
+	h:        -5
+
+Sequence 1 = "NC_000007.14:c128775790-128772489 ", length = 3745 characters
+Sequence 2 = "NC_000072.6:c29380513-29376671 ", length = 3843 characters
+
+Running Global . . . 
+

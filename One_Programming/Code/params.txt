@@ -1,0 +1,5 @@
+match	3
+mismatch	-6
+h	-1
+g	-7
+
